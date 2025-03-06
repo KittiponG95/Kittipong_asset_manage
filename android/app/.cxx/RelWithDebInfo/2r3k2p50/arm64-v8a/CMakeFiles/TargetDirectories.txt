@@ -1,0 +1,2 @@
+W:/asset_manager/asset_manager/android/app/.cxx/RelWithDebInfo/2r3k2p50/arm64-v8a/CMakeFiles/edit_cache.dir
+W:/asset_manager/asset_manager/android/app/.cxx/RelWithDebInfo/2r3k2p50/arm64-v8a/CMakeFiles/rebuild_cache.dir
